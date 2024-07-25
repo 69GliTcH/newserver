@@ -4,7 +4,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.dbConnect = void 0;
-const mongo_uri='mongodb+srv://vermasaksham69:T2ZiflDig2kTv8ny@cluster0.5zjptgg.mongodb.net/';
+const mongo_uri='mongodb+srv://vermasaksham69:Rocketman5555@cluster0.5zjptgg.mongodb.net/';
 const mongoose_1 = __importDefault(require("mongoose"));
 const dbConnect = async () => {
     try {
